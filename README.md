@@ -1,4 +1,5 @@
-platform-samples
+LOCK33 Development Organization's search engine.
+
 ================
 
 This is a public place for all sample projects related to the GitHub Platform.
